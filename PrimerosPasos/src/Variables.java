@@ -5,12 +5,10 @@ public class Variables {
 		
 		int edad;
 		
-		edad = 35;
-		
+		edad = 35;		
 		System.out.println(edad);
 		
-		edad = 76;
-		
+		edad = 76;		
 		System.out.println(edad);
 
 	}
