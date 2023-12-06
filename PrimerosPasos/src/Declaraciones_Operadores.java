@@ -4,16 +4,24 @@ public class Declaraciones_Operadores {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		double a = 5;
+		final double apulgadas = 2.54;
+//		
+//		System.out.println(apulgadas);
 		
-		double b;
+//		System.out.println("¿Cuantas pulgadas son 6cm?");
+//		
+//		double num = 6;
+//		double pul = num/apulgadas;
+//		
+//		System.out.println("En "+num+" cm hay "+pul+" pulgadas");
 		
-		b = 10;
+		int operador1, operador2, resultado;
 		
-		double c = b/a;
+		operador1 = 8;
+		operador2 = 7;
+		resultado = 8+7;
 		
-		//	c+=18;		
-		System.out.println(c);
+		System.out.println(resultado);
 	}
 
 }
